@@ -1,7 +1,8 @@
-- name: "Adam Friedman"
-  mcgill_id: "Your mcgill id"
-  email: "email@mail.mcgill.ca"
-
 - name: "Tsemach Gozlan"
-  mcgill_id: "Your mcgill id"
+  mcgill_id: "260987791"
   email: "email@mail.mcgill.ca"
+  
+- name: "Adam Friedman"
+  mcgill_id: "261019811"
+  email: "adamfriedman@mail.mcgill.ca"
+
